@@ -1,4 +1,7 @@
-﻿using System;
+﻿// created By Doncoi
+// 2019/12/19
+// MIT License
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

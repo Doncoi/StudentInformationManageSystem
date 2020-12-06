@@ -1,4 +1,7 @@
-﻿namespace StudentInformationManageSystem
+﻿// created By Doncoi
+// 2019/12/19
+// MIT License
+namespace StudentInformationManageSystem
 {
 	partial class Form_StudentEditer
 	{
